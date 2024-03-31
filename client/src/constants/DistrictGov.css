@@ -80,7 +80,7 @@
   .buttonContainer {
     display: flex;
     justify-content: center;
-    margin-bottom: 20px; /* Add some margin to create space between the heading and button */
+    margin-bottom: 25px; /* Add some margin to create space between the heading and button */
   }
   
   .walletAddress{
