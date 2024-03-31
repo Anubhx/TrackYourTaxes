@@ -1,6 +1,3 @@
-Sure, here is a ready-to-copy version of the `README.md` content for the Track My Tax project. You can directly paste this into your README file.
-
-```markdown
 # Government Finance Tracker - Track My Tax
 
 A web3-based initiative, Track My Tax leverages TRUFFLE and REACTJS to usher in a new era of transparency for governmental financial dealings.
@@ -24,7 +21,7 @@ Embark on your journey with Track My Tax by following these steps:
    
 2. Inside the `client` directory, initiate the installation of necessary dependencies with:
 
-   ```bash
+   ```
    npm install
    ```
 
@@ -32,7 +29,7 @@ Embark on your journey with Track My Tax by following these steps:
 
 3. Launch the application with:
 
-   ```bash
+   ```
    npm start
    ```
 
@@ -40,7 +37,7 @@ Embark on your journey with Track My Tax by following these steps:
 
 4. To prevent compatibility issues, specifically with `react-router-dom`, adhere to version 5 by executing:
 
-   ```bash
+   ```
    npm install react-router-dom@5
    ```
 
@@ -70,6 +67,4 @@ Detail your changes when submitting a pull request for a smoother review and mer
 ## In Closing
 
 Your engagement with Track My Tax is invaluable in fostering governmental transparency. We're here for any queries or feedback, so don't hesitate to reach out. Here's to making a difference, one transaction at a time.
-```
 
-This Markdown content is ready for use in your README.md file, providing a comprehensive overview of your project, from introduction and setup to usage and contribution guidelines.
