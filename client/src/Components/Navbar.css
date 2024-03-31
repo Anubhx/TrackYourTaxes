@@ -3,7 +3,7 @@
   justify-content: space-between;
   align-items: center;
   background-color: #333;
-  background-image: url("https://www.transparenttextures.com/patterns/inspiration-geometry.png");
+  background-image: url("https://www.transparenttextures.com/patterns/concrete-wall-2.png");
   color: white;
   padding: 10px 20px;
   height: 70px;
@@ -46,10 +46,10 @@
 }
 
 .nav-list li a:hover {
-  background-color: #536543; /* Highlight color on hover */
+  background-color: #586d46; /* Highlight color on hover */
 }
 
-/* Add these styles to your existing Navbar.css file 
+Add these styles to your existing Navbar.css file 
 
 .walletAddress {
 margin-top: 20px;
@@ -99,4 +99,3 @@ cursor: pointer;
 button:hover {
 background-color: #555;
 }
-*/

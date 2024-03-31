@@ -1,5 +1,5 @@
 import React, {useEffect , useState} from "react";
-//import { Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import "./home.css";
 
 
@@ -25,7 +25,7 @@ const Home = () => {
           setTypingText("");
           index = 0;
           type();
-        }, 2000);
+        }, 200);
       }
     };
 

@@ -5,13 +5,12 @@
   flex: 1; /* Set to take remaining available width */
   max-width: 400px; /* Limit the max width of the content */
   padding: 40px;
-  /* background-color: #333; */
   background-color: #333;
-background-image: url("https://www.transparenttextures.com/patterns/inspiration-geometry.png");
+background-image: url("https://www.transparenttextures.com/patterns/argyle.png");
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 20px rgba(185, 134, 134, 0.1);
   border-radius: 10px;
-  color: white;
+  color: rgb(173, 122, 122);
 }
 
 .about-content h1 {

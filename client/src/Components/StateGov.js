@@ -66,7 +66,7 @@ const StateGov = () => {
       }
       if (!fromAddress || !toAddress || !amount) {
         console.log(
-          "Please enter all required parameters(sAddress, rAddress, amount)"
+          "Please enter all required  parameters(sAddress, rAddress, amount)"
         );
         return;
       }
@@ -105,7 +105,7 @@ const StateGov = () => {
 
   return (
     <>
-  <div className="walletAddress"><h3>Connect State Governement Wallet</h3></div>
+  <div className="walletAddress"><h3>Connect to State Governement Wallet</h3></div>
   <div className="buttonContainer"><button onClick={connectWalletHandler}>Connect</button></div>
       <div className="accountDisplay">
         <h3>Address: {defaultAccount}</h3>

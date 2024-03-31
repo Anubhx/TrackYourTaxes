@@ -1,6 +1,6 @@
 import React from 'react';
 import "./About.css";
-import taxTransparencyImage from '../Images/Image_1.png'; // Import the image file
+import taxTransparencyImage from '../Images/Image_1.png'; 
 
 const About = () => {
   return (
@@ -10,13 +10,14 @@ const About = () => {
       </div>
 
       <div className="about-content">
-        <h1>About Tax Money Transparency Project</h1>
+        <h1>About Track My Tax Project</h1>
         <p>
-          In today's world, financial transparency in government remains a significant challenge. Citizens often lack access to clear and up-to-date information about how their tax money is allocated and spent. This lack of transparency can lead to skepticism, mistrust, and even potential misuse of public funds.
-        </p>
-        <p>
-          Our project, TaxTransparency, aims to address this critical issue by developing a decentralized application (DApp) that promotes financial transparency in government operations. The DApp leverages blockchain technology and smart contracts to create an immutable, tamper-resistant, and publicly accessible ledger of all government financial transactions.
-        </p>
+  In the modern era, achieving financial transparency within governmental operations poses a notable challenge. The general populace often finds themselves deprived of clear, current insights into the deployment and utilization of their tax contributions. This opacity can foster a climate of doubt, distrust, and potentially, the misappropriation of public funds.
+</p>
+<p>
+  TaxTransparency is our initiative aimed at confronting this pivotal concern through the creation of a decentralized application (DApp). This DApp harnesses the power of blockchain technology and smart contracts to establish a secure, unalterable, and openly accessible record of every financial transaction undertaken by the government.
+</p>
+
       </div>
     </div>
   );
